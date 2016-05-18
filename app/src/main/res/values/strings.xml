@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JustPizza</string>
+    <string-array name="TipiAccesso">
+        <item>Cliente</item>
+        <item>Pizzeria</item>
+    </string-array>
 </resources>
